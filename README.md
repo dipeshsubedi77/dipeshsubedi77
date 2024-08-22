@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dipesh Subedi</h1>
 <h3 align="center">A passionate frontend developer and videoeditor from Nepal.</h3>
-
 <p align="center">
-  <a href="https://github.com/dipeshsubedi77"><img src="/github.jpeg"size=21&center=true&vCenter=true&width=760&height=45&lines=A+Computer+Science+Student+Videoeditor+contentcreator"></a>
+  <a href="https://github.com/dipeshsubedi77"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=770&height=45&lines=A+Computer+Science+Student+Cybersecurity+youtuber+Videoeditor"></a>
 </p>
 
 
-<p align="right"> <img src="" alt="dipeshsubedi" /> </p>
+
+
+
+
 
 - 👀 I’m interested in **AI**, **Web Development** and **learning new skills**.
 - 🌱 I’m currently learning **Python**.
