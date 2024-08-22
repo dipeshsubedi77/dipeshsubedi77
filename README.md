@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/dipeshsubedi77"><img src="/github.jpeg"size=21&center=true&vCenter=true&width=760&height=45&lines=A+Computer+Science+Student+Videoeditor+contentcreator"></a>
 </p>
-div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/SPnLEvH0BzZL3YH5aDeO" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
