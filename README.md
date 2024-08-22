@@ -5,7 +5,7 @@
   <a href="https://github.com/dipeshsubedi77"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=760&height=45&lines=A+Computer+Science+Student+Videoeditor+contentcreator"></a>
 </p>
 
-<p align="left"> <img src="![image](https://github.com/user-attachments/assets/11ba5645-7350-4d02-bd8b-dfd511023d16)
+<p align="right"> <img src="![image](https://github.com/user-attachments/assets/11ba5645-7350-4d02-bd8b-dfd511023d16)
 ?username=dipeshsubedi77&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshsubedi" /> </p>
 
 - 👀 I’m interested in **AI**, **Web Development** and **learning new skills**.
