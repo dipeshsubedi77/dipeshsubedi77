@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dipesh Subedi</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<h3 align="center">A passionate frontend developer and videoeditor from Nepal.</h3>
 
 <p align="center">
-  <a href="https://github.com/dipeshsubedi77"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=760&height=45&lines=A+Computer+Science+Student+cybersecurity+Videoeditor+contentcreator"></a>
+  <a href="https://github.com/dipeshsubedi77"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=760&height=45&lines=A+Computer+Science+Student+Videoeditor+contentcreator"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipeshsubedi77&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshsubedi" /> </p>
