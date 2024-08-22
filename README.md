@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
 <p align="center">
-  <a href="https://github.com/dipeshsubedi77"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=A+Computer+Science+Student+&+intrested+ in+ Cybersecurity+youtuber+freelancer+Videoeditor"></a>
+  <a href="https://github.com/dipeshsubedi77"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=A+Computer+Science+Student+cybersecurity+Videoeditor+contentcreator"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipeshsubedi77&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshsubedi" /> </p>
