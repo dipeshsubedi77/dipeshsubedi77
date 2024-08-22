@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/dipeshsubedi77"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=770&height=45&lines=A+Computer+Science+Student+Cybersecurity+youtuber+Videoeditor"></a>
 </p>
+<p align="left"> <vdo src="https://github.com/dipeshsubedi77/video.git&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshsubedi" /> </p>
 
 
 
