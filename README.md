@@ -6,9 +6,6 @@
 </p>
 
 
-
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOkNqE7jw&#x2F;bojhW1LQJjesripRTIip5g&#x2F;view?utm_content=DAGOkNqE7jw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Welcome to Everyone</a> by Dipesh Subedi
-
 <p align="right"> <img src="" alt="dipeshsubedi" /> </p>
 
 - 👀 I’m interested in **AI**, **Web Development** and **learning new skills**.
