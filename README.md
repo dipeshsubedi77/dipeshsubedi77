@@ -6,6 +6,9 @@
 <p align="right"> <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal">
 </a>
+ <a href="https://github.com/Azathothas">
+        <img src="https://github.com/Azathothas/Azathothas/assets/58171889/2f94d275-27ef-4d0c-b68c-5759fc6fa2e4" width="500"></a>
+    <br>
 
 
 
