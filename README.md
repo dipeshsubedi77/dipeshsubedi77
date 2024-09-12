@@ -40,7 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsubedi77&" alt="dipeshsubedi77" /></p>
 
-  <a href="https://github.com/Azathothas">
+  <a align ="right" href="https://github.com/Azathothas">
         <img src="https://github.com/Azathothas/Azathothas/assets/58171889/2f94d275-27ef-4d0c-b68c-5759fc6fa2e4" width="500"></a>
     <br>
 
